@@ -9,17 +9,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Set up Node JS
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: latest
       - name: Install dependencies
-        run: npm i -g md-to-pdf bootstrap github-markdown-css
+        run: npm i md-to-pdf bootstrap github-markdown-css
       - name: Generate
-        run: cat READNE.md | md-to-pdf > RodionGudz-CV.pdf
+        run: node_modules/.bin/md-to-pdf --config-file config.json README.md 
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
-          name: "RodionGudz-CV.pdf"
+          name: RodionGudz-CV
           path: RodionGudz-CV.pdf

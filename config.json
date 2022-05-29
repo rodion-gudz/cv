@@ -1,0 +1,15 @@
+{
+  "document_title": "Резюме",
+  "pdf_options": {
+    "format": "a4",
+    "margin": "5mm 20mm 5mm 20mm",
+    "scale": 0.95
+  },
+  "body_class": "markdown-body",
+  "stylesheet": [
+    "node_modules/bootstrap/dist/css/bootstrap.min.css",
+    "node_modules/github-markdown-css/github-markdown-light.css",
+    "css/custom.css"
+  ],
+  "dest": "RodionGudz-CV.pdf"
+}
