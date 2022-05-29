@@ -1,0 +1,9 @@
+.page-break {
+  page-break-after: always;
+}
+.markdown-body {
+  font-size: 11px;
+}
+.markdown-body pre > code {
+  white-space: pre-wrap;
+}
