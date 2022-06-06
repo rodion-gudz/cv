@@ -59,7 +59,7 @@
 ### **Основное** - Гимназия №3 г. Архангельска
 ### **Дополнительное**
 * Лицей Академии Яндекса - [Сертификат с отличием](https://lyceum.yandex.ru/certificate/check/?certNumber=220255757&lastName=Гудзь)
-* Лицей++ Академии Яндекса (Django)
+* Лицей++ Академии Яндекса (Django) - [Сертификат с отличием](https://lyceum.yandex.ru/certificate/check/?certNumber=220355757&lastName=Гудзь)
 * Курсы Stepik - [Введение в Data Science и машинное обучение](https://stepik.org/cert/1351056) и другие
 
 
