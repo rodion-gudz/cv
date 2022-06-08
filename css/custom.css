@@ -7,8 +7,3 @@
 .markdown-body pre > code {
   white-space: pre-wrap;
 }
-section {
-  margin: 0 auto;
-  font-family: system-ui;
-  font-size: 11px;
-}
