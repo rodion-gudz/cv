@@ -171,3 +171,11 @@ cython_debug/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# JS Stuff
+package.json
+package-lock.json
+node_modules/
+
+# Generated PDF
+*.pdf
