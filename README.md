@@ -1,78 +1,162 @@
-# Гудзь Родион
- 
-#### Архангельск, Россия
+<center>
+  <p class="display-5">Гудзь Родион</p>
+  
+  <span class="mx-1">
+    <img class="align-middle" src="images/icons/github.svg" height="16"/> 
+    <a href="https://github.com/fast-geek">fast-geek</a>
+  </span>
+  <span class="mx-1">
+    <img class="align-middle" src="images/icons/telegram.svg" height="16"/> 
+    <a href="https://t.me/fast_geek">fast_geek</a>
+  </span>
+  <span class="mx-1">
+    <img class="align-middle" src="images/icons/email.svg" height="16"/> 
+    <a href="mailto:rodion@gudz.ml">rodion@gudz.ml</a>
+  </span>
 
-## Software Engineer
+</center>
 
-> [Telegram](https://t.me/fast_geek), [GitHub](https://github.com/fast-geek), [VK](https://vk.com/rodiongudz)
+<p class="blockquote">
+    Software Engineer
+</p>
 
+<p>Опыт в backend разработке на Python больше 2 лет. Общий опыт программирования - более 5 лет. Основные направления - Python (Telegram боты, API, Django, PyQt), Kotlin (Десктопные приложения на Swing UI + FlatLaf), C++ (Олимпиадное програмирование).</p>
 
-Опыт в backend разработке на Python больше 2 лет. Общий опыт программирования - более 5 лет. Основные направления - Python (Telegram боты, API, Django, PyQt), Kotlin (Десктопные приложения на Swing UI + FlatLaf), C++ (Олимпиадное програмирование).
+<p class="blockquote">
+    Опыт работы
+</p>
 
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://lavhost.ml">lavHost</a>  - CEO, основной разработчик
+</div>
+<p class="mb-1" style="text-indent: 25px;">Разработка Telegram-бота для управления хостингом, открытого и закрытых REST API, Bash скрипты для автоматизации установки и развёртывания.</p>
 
-## Опыт работы
-* ### [**lavHost**](https://lavhost.ml) - CEO, основной разработчик
-    Разработка Telegram-бота для управления хостингом, открытого и закрытых REST API, Bash скрипты для автоматизации установки и развёртывания.
+<p class="blockquote">
+    Open Source проекты
+</p>
 
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/fast-geek/telegram-bot-template">Telegram-Bot-Template</a>
+  <span сlass="font-monospace">[Python, AIOGram, SQLAlchemy]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Шаблон для создания Telegram-бота на AIOGram, SQLAlchemy (PostgreSQL, SQLite), Redis.</p>
 
-## Open Source проекты
-* ### [**Telegram-Bot-Template**](https://github.com/fast-geek/telegram-bot-template) [`Python`, `AIOGram`, `SQLAlchemy`]
-    Шаблон для создания Telegram-бота на AIOGram, SQLAlchemy (PostgreSQL, SQLite), Redis.
-* ### [**Android-Tool**](https://github.com/fast-geek/Android-Tool) [`Kotlin`, `SwingUI`, `FlatLaf`]
-    Программа для взаимодействия с Android устройствами. Использует `adb`, `fastboot`.
-* ### [**PySender**](https://github.com/fast-geek/PySender) [`Python`, `PyQt5`, `requests`]
-    Программа для отправки `REST API` запросов. UI сделан с помощью `PyQt5`.
-* ### [**Resume**](https://github.com/YandexLyceumPP/Resume) [`Python`, `Django`]
-    Веб-сервер на `Django`. Сервис позволяет вести простой учет ваших профессиональных достижений, полученных навыков, интересов.
-* ### [**LyceumBot**](https://github.com/AYLMS/LyceumBot) [`Python`, `AIOGram`, `SQLAlchemy`]
-    Telegram-бот для учеников LMS Яндекса. Показ уведомлений, курсов, уроков и задач и многое другое.
-* ### [**Notes2Py**](https://github.com/fast-geek/Notes2Py) [`Python`, `PyQt6`]
-    Минималистичная программа с адаптивным интерфейсов для создания и сохранения заметок.
-* ### [**PyYandexLMS**](https://github.com/fast-geek/PyYandexLMS) [`Python`, `requests`, `aiohttp`]
-    Библиотека для взаимодействия с LMS Яндекса. Имеет синхронные и асинхронные методы.
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/fast-geek/Android-Tool">Android-Tool</a>
+  <span сlass="font-monospace">[Kotlin, SwingUI, FlatLaf]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Программа для взаимодействия с Android устройствами. Использует `adb`, `fastboot`.</p>
 
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/fast-geek/YandexLyceumDocs">YandexLyceumDocs</a>
+  <span сlass="font-monospace">[Python, requests, Jinja2]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Программа для удобного представления документации по любым курсам на платформе Академии Яндекса.</p>
 
-## Скиллы
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/fast-geek/PySender">PySender</a>
+  <span сlass="font-monospace">[Python, PyQt5, requests]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Программа для отправки REST API запросов. UI сделан с помощью PyQt5.</p>
 
-* ### Языки программирования, разметки, командной строки
-    * `Python` - Backend приложения, PyQT, Telegram-боты, REST API сервисы, Django, работа с базами данных через SQLAlchemy, скрипты.
-    * `Kotlin` - Desktop приложения, небольшие программы.
-    * `C++` - Олимпиадное программирование
-    * `Bash` - Знание на достаточном уровне, скрипты автоматизации для Linux и MacOS систем. 
-    * `HTML` / `CSS` / `JS` - Хороший уровень, достаточен для вёрстки небольших сайтов, умение работать с CSS-фреймворками
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/YandexLyceumPP/Resume">Resume</a>
+  <span сlass="font-monospace">[Python, Django]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Веб-сервер на Django. Сервис позволяет вести простой учет ваших профессиональных достижений, полученных навыков, интересов.</p>
 
-* ### Фреймворки и библиотеки
-    * **Web** - Django, Flask, FastAPI
-    * **Telegram** - AIOGram, Pyrogram, Telethon
-    * **Databases** - SQLAlchemy, TinyDB
-    * **UI** - PyQt5, PyQt6
-    * **REST API** - requests, aiohttp
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/AYLMS/LyceumBot">LyceumBot</a>
+  <span сlass="font-monospace">[Python, AIOGram, SQLAlchemy]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Telegram-бот для учеников LMS Яндекса. Показ уведомлений, курсов, уроков и задач и многое другое.</p>
 
-* ### Базы данных
-    * **PostgreSQL**,  **MongoDB**
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/fast-geek/Notes2Py">Notes2Py</a>
+  <span сlass="font-monospace">[Python, PyQt6]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Минималистичная программа с адаптивным интерфейсов для создания и сохранения заметок.</p>
 
-* ### Прочее
-    * **Docker**, **Nginx**, **systemd**, **CI / CD** (GitHub Actions)
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/fast-geek/PyYandexLMS">PyYandexLMS</a>
+  <span сlass="font-monospace">[Python, requests, aiohttp]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Библиотека для взаимодействия с LMS Яндекса. Имеет синхронные и асинхронные методы.</p>
 
+<p class="blockquote">
+    Скиллы
+</p>
 
-## Образование
-### **Основное** - Гимназия №3 г. Архангельска
-### **Дополнительное**
-* Лицей Академии Яндекса - [Сертификат с отличием](https://lyceum.yandex.ru/certificate/check/?certNumber=220255757&lastName=Гудзь)
-* Лицей++ Академии Яндекса (Django) - [Сертификат с отличием](https://lyceum.yandex.ru/certificate/check/?certNumber=220355757&lastName=Гудзь)
-* Курсы Stepik - [Введение в Data Science и машинное обучение](https://stepik.org/cert/1351056) и другие
+<ul>
+  <li>
+  <p class="blockquote fs-6">
+      Языки программирования, разметки, командной строки
+  </p>
+    <ul>
+      <li><span class="font-monospace fw-bolder">Python</span> - Backend приложения, PyQT, Telegram-боты, REST API сервисы, Django, работа с базами данных через SQLAlchemy, скрипты.</li>
+      <li><span class="font-monospace fw-bolder">Kotlin</span> - Desktop приложения, небольшие программы.</li>
+      <li><span class="font-monospace fw-bolder">C++</span> - Олимпиадное программирование</li>
+      <li><span class="font-monospace fw-bolder">Bash</span> - Знание на достаточном уровне, скрипты автоматизации для Linux и MacOS систем.</li>
+      <li><span class="font-monospace fw-bolder">HTML / CSS / JS</span> - Хороший уровень, достаточен для вёрстки небольших сайтов, умение работать с CSS-фреймворками</li>
+    </ul>
+  </li>
 
+  <li>
+  <p class="blockquote fs-6">
+      Фреймворки и библиотеки
+  </p>
+    <ul>
+      <li><span class="fw-bolder">Web</span> - <span class="font-monospace">Django, Flask, FastAPI</span></li>
+      <li><span class="fw-bolder">Telegram</span> - <span class="font-monospace">AIOGram, Pyrogram, Telethon</span></li>
+      <li><span class="fw-bolder">Databases</span> - <span class="font-monospace">SQLAlchemy, TinyDB</span></li>
+      <li><span class="fw-bolder">UI</span> - <span class="font-monospace">PyQt5, PyQt6</span></li>
+      <li><span class="fw-bolder">REST API</span> - <span class="font-monospace">requests, aiohttp</span></li>
+    </ul>
+  </li>
 
-## Дополнительно
-Люблю администрирование Linux, написание Bash и не только скриптов, уважаю MacOS за её unix-подобный терминал и архитектуру, приятные UI и UX. Участвую в олимпиадах школьников (ВСОШ, НТИ, прочее)
+  <li>
+  <p class="blockquote fs-6">
+      Базы данных
+  </p>
+    <span class="font-monospace fw-bolder">PostgreSQL, MongoDB</span>
+  </li>
 
+  <li>
+  <p class="blockquote fs-6">
+      Прочее
+  </p>
+    <span class="font-monospace fw-bolder">Docker, Nginx, CI / CD</span>
+  </li>
 
-## Контакты
+</ul>
 
-* **Telegram** - [@fast_geek](https://t.me/fast_geek)
-* **VK** - [@rodiongudz](https://vk.com/rodiongudz)
-* **Email** - [rodion@gudz.ml](mailto:rodion@gudz.ml) ([me@lavn.ml](mailto:me@lavn.ml))
+<p class="blockquote">
+    Образование
+</p>
 
-<br>
+<ul>
+  <li>
+  <p class="blockquote fs-6">
+      Основное
+  </p>
+    <span class="fw-bolder">Гимназия №3 г. Архангельска</span>
+  </li>
 
-> Generated by [fast-geek/cv](https://github.com/fast-geek/cv)
+  <li>
+  <p class="blockquote fs-6">
+      Дополнительное
+  </p>
+    <ul>
+      <li><span class="fw-bold">Лицей Академии Яндекса</span> - <a href="https://lyceum.yandex.ru/certificate/check/?certNumber=220255757&lastName=Гудзь">Сертификат с отличием</a></li>
+      <li><span class="fw-bold">Лицей++ Академии Яндекса (Django)</span> - <a href="https://lyceum.yandex.ru/certificate/check/?certNumber=220355757&lastName=Гудзь">Сертификат с отличием</a></li>
+      <li><span class="fw-bold">Курсы Stepik</span> - <a href="https://stepik.org/cert/1351056">Введение в Data Science и машинное обучение</a> и другие</li>
+    </ul>
+  </li>
+
+</ul>
+
+<figure class="text-end">
+  <figcaption class="blockquote-footer">
+    Generated by <a href="https://github.com/fast-geek/cv">fast-geek/cv</a>
+  </figcaption>
+</figure>
