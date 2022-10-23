@@ -1,5 +1,5 @@
 <center>
-  <p class="display-5">Гудзь Родион</p>
+  <p class="display-5">Гудзь Родион Сергеевич</p>
   
   <span class="mx-1">
     <img class="align-middle" src="images/icons/github.svg" height="16"/> 
@@ -20,7 +20,7 @@
     Software Engineer
 </p>
 
-<p>Опыт в backend разработке на Python больше 2 лет. Общий опыт программирования - более 5 лет. Основные направления - Python (Telegram боты, API, Django, PyQt), Kotlin (Десктопные приложения на Swing UI + FlatLaf), C++ (Олимпиадное програмирование).</p>
+<p>Опыт в backend разработке на Python больше 2 лет. Общий опыт программирования - более 5 лет. Основные направления - Python (Telegram боты, API, Django, PyQt), DevOPS (Linux, Bash, Docker), Kotlin (Десктопные приложения на Swing UI + FlatLaf), C++ (Олимпиадное програмирование).</p>
 
 <p class="blockquote">
     Опыт работы
@@ -139,7 +139,7 @@
   <p class="blockquote fs-6">
       Основное
   </p>
-    <span class="fw-bolder">Гимназия №3 г. Архангельска</span>
+    <span class="fw-bolder">ГАОУ "Лицей Иннополис"</span>
   </li>
 
   <li>
