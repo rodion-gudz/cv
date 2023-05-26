@@ -18,11 +18,14 @@ jobs:
         run: npm i md-to-pdf bootstrap github-markdown-css
       - name: Generate HTML
         run: node_modules/.bin/md-to-pdf --as-html --config-file config/html.json README.md
+      - name: Generate PDF
+        run: node_modules/.bin/md-to-pdf --config-file config.json README.md 
       - name: Prepare folder
         run: |
           mkdir build
           mv README.html build/index.html
           cp -r icons build/icons
+          cp RodionGudz-CV.pdf build/CV.pdf
       - name: Push to branch
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
