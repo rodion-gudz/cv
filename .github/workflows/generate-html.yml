@@ -1,0 +1,31 @@
+name: Generate HTML from Markdown and publish to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu=latets
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Node JS
+        uses: actions/setup-node@v3
+        with:
+          node-version: latest
+      - name: Install dependencies
+        run: npm i md-to-pdf bootstrap github-markdown-css
+      - name: Generate HTML
+        run: node_modules/.bin/md-to-pdf --as-html --config-file config/html.json README.md
+      - name: Prepare folder
+        run: |
+          mkdir build
+          mv README.html build/index.html
+          cp -r icons build/icons
+      - name: Push to branch
+        uses: JamesIves/github-pages-deploy-action@4.1.0
+        with:
+          branch: gh-pages
+          folder: build
+          clean: false
