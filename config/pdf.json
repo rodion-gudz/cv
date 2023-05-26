@@ -9,7 +9,7 @@
   "stylesheet": [
     "node_modules/bootstrap/dist/css/bootstrap.min.css",
     "node_modules/github-markdown-css/github-markdown-light.css",
-    "css/custom.css"
+    "css/pdf.css"
   ],
   "dest": "RodionGudz-CV.pdf"
 }

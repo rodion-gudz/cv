@@ -1,0 +1,8 @@
+{
+  "stylesheet": [
+    "node_modules/bootstrap/dist/css/bootstrap.min.css",
+    "node_modules/github-markdown-css/github-markdown-light.css",
+    "css/html.css"
+  ],
+  "body_class": "container my-5 markdown-body"
+}

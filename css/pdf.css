@@ -1,12 +1,15 @@
 .page-break {
   page-break-after: always;
 }
+
 .markdown-body {
   font-size: 13px;
 }
+
 .markdown-body pre > code {
   white-space: pre-wrap;
 }
+
 footer {
   text-align: right;
 }
