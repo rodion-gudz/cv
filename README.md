@@ -11,19 +11,41 @@
   </span>
   <span class="mx-1">
     <img class="align-middle" src="images/icons/email.svg" height="16"/> 
-    <a href="mailto:rodion@gudz.ml">rodion@gudz.ml</a>
+    <a href="mailto:rodion.gudz@icloud.com">rodion.gudz@icloud.com</a>
   </span>
 
 </center>
 
 <p class="blockquote">
-    Software Engineer
+    SUMMARY
 </p>
 
-<p>Опыт в backend разработке на Python больше 2 лет. Общий опыт программирования - более 5 лет. Основные направления - Python (Telegram боты, API, Django, PyQt), DevOPS (Linux, Bash, Docker), Kotlin (Десктопные приложения на Swing UI + FlatLaf), C++ (Олимпиадное програмирование).</p>
+<p>Опыт в backend разработке на Python больше 3 лет. Общий опыт программирования - более 5 лет. Основные направления - Python (Telegram боты, API, Django, PyQt), DevOps.</p>
 
 <p class="blockquote">
-    Open Source проекты
+    EXPERIENCE
+</p>
+
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://github.com/lavHost">lavHost</a>
+  <span сlass="font-monospace">[Python, AIOGram, SQLAlchemy]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Хостинг для Telegram-юзерботов с управлением через бота</p
+
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://t.me/MEPhIQuest_bot">Ядерное сердце</a>
+  <span сlass="font-monospace">[Python, AIOGram, SQLAlchemy]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Бот для дня открытых дверей НИЯУ МИФИ 2023</p
+
+<div class="d-flex align-items-center g-3">
+  <a class="fs-6 me-1" href="https://t.me/MEPhIQuest_bot">CourseGPT</a>
+  <span сlass="font-monospace">[Python, AIOGram, SQLAlchemy, OpenAI]</span>
+</div>
+<p class="mb-1" style="text-indent: 25px;">Бот написания курсовых и других учебных работ с использованием ChatGPT</p>
+
+<p class="blockquote">
+    OPEN SOURCE PROJECTS
 </p>
 
 <div class="d-flex align-items-center g-3">
@@ -57,54 +79,28 @@
 <p class="mb-1" style="text-indent: 25px;">Библиотека для взаимодействия с LMS Яндекса. Имеет синхронные и асинхронные методы.</p>
 
 <p class="blockquote">
-    Скиллы
+    AWARDS
 </p>
 
 <ul>
-  <li>
-  <p class="blockquote fs-6">
-      Языки программирования, разметки, командной строки
-  </p>
-    <ul>
-      <li><span class="font-monospace fw-bolder">Python</span> - Backend приложения, PyQT, Telegram-боты, REST API сервисы, Django, работа с базами данных через SQLAlchemy, скрипты.</li>
-      <li><span class="font-monospace fw-bolder">Kotlin</span> - Desktop приложения, небольшие программы.</li>
-      <li><span class="font-monospace fw-bolder">C++</span> - Олимпиадное программирование</li>
-      <li><span class="font-monospace fw-bolder">Bash</span> - Знание на достаточном уровне, скрипты автоматизации для Linux и MacOS систем.</li>
-      <li><span class="font-monospace fw-bolder">HTML / CSS / JS</span> - Хороший уровень, достаточен для вёрстки небольших сайтов, умение работать с CSS-фреймворками</li>
-    </ul>
-  </li>
-
-  <li>
-  <p class="blockquote fs-6">
-      Фреймворки и библиотеки
-  </p>
-    <ul>
-      <li><span class="fw-bolder">Web</span> - <span class="font-monospace">Django, Flask, FastAPI</span></li>
-      <li><span class="fw-bolder">Telegram</span> - <span class="font-monospace">AIOGram, Pyrogram, Telethon</span></li>
-      <li><span class="fw-bolder">Databases</span> - <span class="font-monospace">SQLAlchemy, TinyDB</span></li>
-      <li><span class="fw-bolder">UI</span> - <span class="font-monospace">PyQt5, PyQt6</span></li>
-      <li><span class="fw-bolder">REST API</span> - <span class="font-monospace">requests, aiohttp</span></li>
-    </ul>
-  </li>
-
-  <li>
-  <p class="blockquote fs-6">
-      Базы данных
-  </p>
-    <span class="font-monospace fw-bolder">PostgreSQL, MongoDB</span>
-  </li>
-
-  <li>
-  <p class="blockquote fs-6">
-      Прочее
-  </p>
-    <span class="font-monospace fw-bolder">Docker, Nginx, CI / CD</span>
-  </li>
-
+      <li>Первый <span class="font-monospace fw-bolder">абсолютный победитель</span> ВСОШ по Информационной безопасности</li>
+      <li><span class="font-monospace fw-bolder">Трехкратный призер</span> имени И.Я. Верченко по информатике и компьютерной безопасности</li>
+      <li><span class="font-monospace fw-bolder">Победитель</span> Победитель всероссийского конкурса OpenSource проектов</li>
 </ul>
 
 <p class="blockquote">
-    Курсы и сертификаты
+    SKILLS
+</p>
+
+<ul>
+  <li><span class="font-monospace fw-bolder">Языки программирования:</span> Python (proficient), Kotlin, C++</li>
+  <li><span class="font-monospace fw-bolder">Фреймворки и библиотеки:</span> aiogram, FastAPI, Django, SQLAlchemy, Pyrogram, Telethon</li>
+  <li><span class="font-monospace fw-bolder">Базы данных:</span> PostgreSQL, MongoDB</li>
+  <li><span class="font-monospace fw-bolder">Прочее:</span> bash, Docker, Nginx, CI / CD</li>
+</ul>
+
+<p class="blockquote">
+    CERTIFICATES
 </p>
 
 <ul>
@@ -113,8 +109,9 @@
   <li><span class="fw-bold">Курсы Stepik</span> - <a href="https://stepik.org/cert/1351056">Введение в Data Science и машинное обучение</a> и другие</li>
 </ul>
 
-<figure class="text-end">
+</br>
+<footer>
   <figcaption class="blockquote-footer">
     Generated by <a href="https://github.com/rodion-gudz/cv">rodion-gudz/cv</a>
   </figcaption>
-</figure>
+</footer>
